@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS, Express**
 
-- 👨‍💻 All of my projects are available at [https://carljamesroxas.herokuapp.com/](https://carljamesroxas.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://carljamesroxas.vercel.app/](https://carljamesroxas.herokuapp.com/)
 
 - 📫 How to reach me **carljames.roxas.m@gmail.com**
 
