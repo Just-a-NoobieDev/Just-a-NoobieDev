@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GO, NestJS, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://carljamesroxas.vercel.app/](https://carljamesroxas.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://carljamesroxas.vercel.app/](https://carljamesroxas.vercel.app/)
 
 - 📫 How to reach me **carljames.roxas.m@gmail.com**
 
