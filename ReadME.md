@@ -19,8 +19,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,go,htmx,ts,postgres,mongodb,mysql,graphql,apollo,prisma,nextjs,nodejs,express,react,php,django,python,docker,redis,git,github,supabase,firebase,vscode" />
+  <a href="https://carljamesroxas.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=nestjs,go,htmx,ts,postgres,mongodb,mysql,graphql,apollo,prisma,nextjs,nodejs,express,react,docker,redis,materialui,git,github,supabase,firebase,vscode,php,django,python" />
   </a>
 </p>
 
