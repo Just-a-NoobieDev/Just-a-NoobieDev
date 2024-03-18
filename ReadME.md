@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carl James Roxas</h1>
 <h3 align="center">I am a student/self taught web developer based in Bulacan, Philippines who loves building web applications that can help other people.</h3>
 
-- 🌱 I’m currently learning **React, NodeJS, Express**
+- 🌱 I’m currently learning **GO, NestJS, TypeScript, React, NodeJS, Express**
 
 - 👨‍💻 All of my projects are available at [https://carljamesroxas.vercel.app/](https://carljamesroxas.herokuapp.com/)
 
