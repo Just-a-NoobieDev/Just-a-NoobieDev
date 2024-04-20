@@ -20,7 +20,7 @@
 <h3 align="left">Programming Languages and Technologies:</h3>
 <p align="left">
   <a href="https://carljamesroxas.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=nestjs,ts,go,htmx,graphql,apollo,nextjs,vite,express,materialui,tailwind,php,django,python" />
+    <img src="https://skillicons.dev/icons?i=nestjs,ts,go,htmx,graphql,nextjs,express,tailwind,php,django,python" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 <h3 align="left">Databases and Tools:</h3>
 <p align="left">
   <a href="https://carljamesroxas.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,docker,redis,git,github,postman,supabase,firebase,vscode,npm,yarn" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,redis,git,github,supabase,firebase" />
   </a>
 </p>
 
