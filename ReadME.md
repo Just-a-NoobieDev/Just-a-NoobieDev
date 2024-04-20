@@ -28,7 +28,7 @@
 <h3 align="left">Databases and Tools:</h3>
 <p align="left">
   <a href="https://carljamesroxas.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,redis,git,github,supabase,firebase" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,redis,git,supabase,firebase" />
   </a>
 </p>
 
